@@ -1,2 +1,2 @@
 # TCS NQT 
-Questions Practise Set
+Question Practise Set
